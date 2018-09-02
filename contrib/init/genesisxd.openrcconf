@@ -1,0 +1,26 @@
+# /etc/conf.d/kingscoind: config file for /etc/init.d/kingscoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/kingscoin/kingscoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/kingscoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/kingscoind.pid"
+
+# Where to write kingscoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/kingscoind"
+
+# User and group to own kingscoind process
+#BITCOIND_USER="kingscoin"
+#BITCOIND_GROUP="kingscoin"
+
+# Path to kingscoind executable
+#BITCOIND_BIN="/usr/bin/kingscoind"
+
+# Nice value to run kingscoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

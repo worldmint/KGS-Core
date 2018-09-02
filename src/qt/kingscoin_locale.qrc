@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/kingscoin_bg.qm</file>
+        <file alias="ca">locale/kingscoin_ca.qm</file>
+        <file alias="cs">locale/kingscoin_cs.qm</file>
+        <file alias="da">locale/kingscoin_da.qm</file>
+        <file alias="de">locale/kingscoin_de.qm</file>
+        <file alias="en">locale/kingscoin_en.qm</file>
+        <file alias="en_US">locale/kingscoin_en_US.qm</file>
+        <file alias="es">locale/kingscoin_es.qm</file>
+        <file alias="fi">locale/kingscoin_fi.qm</file>
+        <file alias="fr_FR">locale/kingscoin_fr_FR.qm</file>
+        <file alias="hr">locale/kingscoin_hr.qm</file>
+        <file alias="it">locale/kingscoin_it.qm</file>
+        <file alias="ja">locale/kingscoin_ja.qm</file>
+        <file alias="ko_KR">locale/kingscoin_ko_KR.qm</file>
+        <file alias="nl">locale/kingscoin_nl.qm</file>
+        <file alias="pl">locale/kingscoin_pl.qm</file>
+        <file alias="pt">locale/kingscoin_pt.qm</file>
+        <file alias="pt_BR">locale/kingscoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/kingscoin_ro_RO.qm</file>
+        <file alias="ru">locale/kingscoin_ru.qm</file>
+        <file alias="sk">locale/kingscoin_sk.qm</file>
+        <file alias="sv">locale/kingscoin_sv.qm</file>
+        <file alias="tr">locale/kingscoin_tr.qm</file>
+        <file alias="uk">locale/kingscoin_uk.qm</file>
+        <file alias="zh_CN">locale/kingscoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/kingscoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

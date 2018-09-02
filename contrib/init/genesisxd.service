@@ -1,0 +1,26 @@
+[Unit]
+Description=Kingscoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=kingscoin
+Group=kingscoin
+
+Type=forking
+PIDFile=/var/lib/kingscoind/kingscoind.pid
+
+ExecStart=/usr/bin/kingscoind -daemon -pid=/var/lib/kingscoind/kingscoind.pid \
+          -conf=/etc/kingscoin/kingscoin.conf -datadir=/var/lib/kingscoind
+
+ExecStop=-/usr/bin/kingscoin-cli -conf=/etc/kingscoin/kingscoin.conf \
+         -datadir=/var/lib/kingscoind stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

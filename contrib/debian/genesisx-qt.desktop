@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Kingscoin
+Comment=Kingscoin P2P Cryptocurrency
+Comment[fr]=Kingscoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Kingscoin, eşten eşe kriptografik sanal para birimi
+Exec=kingscoin-qt %u
+Terminal=false
+Type=Application
+Icon=kingscoin128
+MimeType=x-scheme-handler/kingscoin;
+Categories=Office;Finance;
