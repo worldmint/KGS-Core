@@ -25,12 +25,12 @@ More information at [Kingscoin.biz](https://www.kingscoin.biz/) Visit our ANN th
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Stakers</th>
-<tr><td>Phase 1</td><td>0-200</td><td>1 KGS + Premine</td><td>60% (0.6 KGS)</td><td>40% (0.4 KGS)</td></tr>
-<tr><td>Phase 2</td><td>201-25000</td><td>15 KGS</td><td>60% (9 KGS)</td><td>40% (6 KGS)</td></tr>
-<tr><td>Phase 3</td><td>25001-100000</td><td>30 KGS</td><td>70% (21 KGS)</td><td>30% (9 KGS)</td></tr>
-<tr><td>Phase 4</td><td>100001-200000</td><td>20 KGS</td><td>80% (16 KGS)</td><td>20% (4 KGS)</td></tr>
-<tr><td>Phase 5</td><td>200001-500000</td><td>10 KGS</td><td>85% (8.5 KGS)</td><td>15% (1.5 KGS)</td></tr>
-<tr><td>Phase 6</td><td>500001-1000000</td><td>5 KGS</td><td>90% (4.5 KGS)</td><td>10% (0.5 KGS)</td></tr>
-<tr><td>Phase 7</td><td>1000001-2000000</td><td>2 KGS</td><td>90% (1.8 KGS)</td><td>10% (0.2 KGS)</td></tr>
-<tr><td>Phase 8</td><td>2000001-Max</td><td>1 KGS</td><td>90% (0.9 KGS)</td><td>10% (0.1 KGS)</td></tr>
+<tr><td>Phase 1</td><td>0-200</td><td>1 KGS + Premine</td><td>0% (0 KGS)</td><td>100% (1 KGS)</td></tr>
+<tr><td>Phase 2</td><td>201-15000</td><td>2 KGS</td><td>50% (1 KGS)</td><td>50% (1 KGS)</td></tr>
+<tr><td>Phase 3</td><td>15001-50000</td><td>6 KGS</td><td>60% (3.6 KGS)</td><td>40% (2.4 KGS)</td></tr>
+<tr><td>Phase 4</td><td>50001-75000</td><td>8 KGS</td><td>60% (4.8 KGS)</td><td>40% (3.2 KGS)</td></tr>
+<tr><td>Phase 5</td><td>75001-175000</td><td>10 KGS</td><td>70% (7 KGS)</td><td>30% (3 KGS)</td></tr>
+<tr><td>Phase 6</td><td>175001-250000</td><td>8 KGS</td><td>70% (5.6 KGS)</td><td>30% (2.4 KGS)</td></tr>
+<tr><td>Phase 7</td><td>250001-400000</td><td>10 KGS</td><td>70% (7 KGS)</td><td>30% (3 KGS)</td></tr>
+<tr><td>Phase 8</td><td>400001-Max</td><td>2 KGS</td><td>70% (0.7 KGS)</td><td>30% (0.3 KGS)</td></tr>
 </table>
