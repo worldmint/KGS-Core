@@ -25,7 +25,7 @@ More information at [Kingscoin.biz](https://www.kingscoin.biz/) Visit our ANN th
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Stakers</th>
-<tr><td>Phase 1</td><td>0-200</td><td>Premine + 1 KGS</td><td>60% (0.6 KGS)</td><td>40% (0.4 KGS)</td></tr>
+<tr><td>Phase 1</td><td>0-200</td><td>1 KGS + Premine</td><td>60% (0.6 KGS)</td><td>40% (0.4 KGS)</td></tr>
 <tr><td>Phase 2</td><td>201-25000</td><td>15 KGS</td><td>60% (9 KGS)</td><td>40% (6 KGS)</td></tr>
 <tr><td>Phase 3</td><td>25001-100000</td><td>30 KGS</td><td>70% (21 KGS)</td><td>30% (9 KGS)</td></tr>
 <tr><td>Phase 4</td><td>100001-200000</td><td>20 KGS</td><td>80% (16 KGS)</td><td>20% (4 KGS)</td></tr>
